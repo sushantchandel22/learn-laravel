@@ -14,7 +14,7 @@ class UserTable extends DataTableComponent
     {
         $this->setPrimaryKey('id');
     }
-
+// adding a new branch  here 
     public function columns(): array
     {
         return [
